@@ -22,7 +22,7 @@ This project is submitted as part of **Task 1** in the 45-day Web Development In
 - JavaScript (Vanilla JS)
 
 ## 📽️ Demo
-Check out the video demo on [LinkedIn]([YOUR_LINKEDIN_VIDEO_LINK_HERE](https://www.linkedin.com/posts/taruni-pallela-249160283_im-thrilled-to-share-that-ive-successfully-activity-7330640506542010378-_fGn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAETmY1kBv-zcJDoCDc8iB_T3pYLhJwyVa8g))
+Check out the video demo on [LinkedIn]([https://www.linkedin.com/posts/taruni-pallela-249160283_im-thrilled-to-share-that-ive-successfully-activity-7330640506542010378-_fGn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAETmY1kBv-zcJDoCDc8iB_T3pYLhJwyVa8g])
 
 ---
 
