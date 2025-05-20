@@ -1,2 +1,29 @@
-# apexplanet-task-1-webpage
-Task 1 - Basic HTML, CSS, JavaScript webpage for ApexPlanet Internship
+# Task 1 – Basic Webpage using HTML, CSS & JavaScript
+
+This project is submitted as part of **Task 1** in the 45-day Web Development Internship by **ApexPlanet Software Pvt. Ltd.**
+
+## 📋 Task Overview
+- Structure the webpage using **HTML**
+- Style the page using **CSS**
+- Add basic interactivity using **JavaScript**
+
+## 💡 Features
+- Semantic layout using HTML5
+- Clean styling with CSS
+- JavaScript button that triggers an alert
+- Navigation links and an embedded image
+
+## 📸 Preview
+![Preview](photo.jpg)
+
+## 🧠 Technologies Used
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
+
+## 📽️ Demo
+Check out the video demo on [LinkedIn](YOUR_LINKEDIN_VIDEO_LINK_HERE)
+
+---
+
+> ✅ This is the first step toward becoming a Full Stack Developer. More projects coming soon!
